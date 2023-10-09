@@ -9,7 +9,7 @@ Ethernaut是一款基于Web3/Solidity的战争游戏，灵感来自overthewire.o
 游戏是100%开源的，所有关卡都是其他玩家的贡献。
 
 
-本项目是所有Etheraut游戏的关卡解决方案。
+本项目给出了**所有Etheraut游戏的关卡解决方案**供你参考。
 
 ## 贡献者
 
