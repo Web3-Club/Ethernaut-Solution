@@ -25,8 +25,7 @@ WeChat：YanboTravelAllWorld
 ### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 Built by Web3-Club [contributors](https://github.com/Web3-Club/Web3wiki-Website#%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85) with heart.  
 [Ethernaut](https://github.com/OpenZeppelin/ethernaut) | OpenZeppelin 
-Solution ©️huxiha
-
+Solution ©️[huxiha](https://github.com/huxiha)
 ALL RIGHT RESERVED  
  
 
