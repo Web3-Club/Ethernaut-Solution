@@ -21,6 +21,10 @@ Ethernaut是一款基于Web3/Solidity的战争游戏，灵感来自overthewire.o
 ## 加入交流群（请提前备注来意）
 WeChat：YanboTravelAllWorld
 
+## 赞助我们
+
+<a href="https://www.donate3.xyz/donateTo?cid=bafkreif5ecvwp7vanir2geib43nws7zvaac46rvlryzwwm47knutcv6xee" target="_blank"><img src="https://www.donate3.xyz/Donate3ToMe.svg" alt="Donate3 To Me"></a>
+
 ## 📖 LICENCE
 ### [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 Built by Web3-Club [contributors](https://github.com/Web3-Club/Web3wiki-Website#%E9%A1%B9%E7%9B%AE%E8%B4%A1%E7%8C%AE%E8%80%85) with heart.  
